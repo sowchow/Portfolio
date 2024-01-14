@@ -1,0 +1,17 @@
+.experienceContainer h1{
+  padding-bottom: 50px;
+}
+.experienceContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 500px 0;
+  color: white;
+}
+.experienceContainer__info{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
